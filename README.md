@@ -1,4 +1,4 @@
-# Till React Native (alpha version)
+# Exchange React Native (alpha version)
 
 React Native support for [Payment.js](https://asxgw.com/documentation/gateway#payment-js-javascript-integration).
 
